@@ -1,1 +1,23 @@
-<p>counter.component works!</p>
+<div class="counter-container">
+
+  <!-- 🔹 SIGNALS COUNTER -->
+  <section class="counter signals">
+    <h2>🛰️ Signals Counter</h2>
+    <p class="count">{{ countSignal() }}</p>
+    <div class="buttons">
+      <button (click)="decrementSignal()">-</button>
+      <button (click)="incrementSignal()">+</button>
+    </div>
+  </section>
+
+  <!-- 🔸 RXJS COUNTER -->
+  <section class="counter rxjs">
+    <h2>📡 RxJS BehaviorSubject Counter</h2>
+    <p class="count">{{ count$ | async }}</p>
+    <div class="buttons">
+      <button (click)="decrementRx()">-</button>
+      <button (click)="incrementRx()">+</button>
+    </div>
+  </section>
+
+</div>
