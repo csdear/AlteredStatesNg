@@ -4,6 +4,9 @@ Angular Signals and RxJS Observables side-by-side
 
 |TAGS| signal, effect, signal reactive effect, ~signal "watcher", signal computed,  rxjs, BehaviorSubject, rxjs map, AsyncePipe, rxjs subscribe, ~rxjs "watcher" asObservable, observable, derived, rxjs pipe map, rxjs next, BehaviorSubject getValue, native [button, card, container]
 
+<img width="919" height="447" alt="image" src="https://github.com/user-attachments/assets/e1b2d951-a48a-4398-aca8-2c4d891a738b" />
+
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.7.
 
 ## Development server
