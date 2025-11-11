@@ -1,5 +1,9 @@
 # AlteredStatesNg
 
+Angular Signals and RxJS Observables side-by-side
+
+|TAGS| signal, effect, signal reactive effect, ~signal "watcher", signal computed,  rxjs, BehaviorSubject, rxjs map, AsyncePipe, rxjs subscribe, ~rxjs "watcher" asObservable, observable, derived, rxjs pipe map, rxjs next, BehaviorSubject getValue, native [button, card, container]
+
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.7.
 
 ## Development server
